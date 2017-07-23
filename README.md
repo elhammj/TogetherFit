@@ -1,1 +1,3 @@
-# TogetherFit
+# TogetherFit is a group project (Fall 2016)
+	It is a workout android application.
+Main functions:	1- It helps people find trainers in a specific fitness type that assists them to meet their fitness goals.	2- It connects people to others with similar fitness goals.	3- It allows professional trainers to create a fitness class.	4- It allows the students to register in a fitness class which has been created by a trainer.	5- It also finds close workout places for a student and trainer.
